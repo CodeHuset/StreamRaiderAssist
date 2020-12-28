@@ -6,7 +6,12 @@ Simply put, StreamRaiders Assist is an unofficial Companion Bot for Discord, tha
 
 ## DISCLAIMER
 ```
-StreamRaiders Assist is not sponsored by, endorsed by, partnered with or otherwise affiliated with StreamRaiders, Stream Captain or any other parties directly or indirectly involved with the Development or Deployment of the StreamRaiders Game, or other services provided by Stream Captain. Furthermore, this project is fan made. Permission was sought but not directly approved. This means at any time the service may be withdrawn, at the request from Stream Captain. All assets used in StreamRaiders Assist are publicly available, or were provided by Stream Captain staff members as a gesture of goodwill.
+StreamRaiders Assist is not sponsored by, endorsed by, partnered with or otherwise affiliated with StreamRaiders, 
+Stream Captain or any other parties directly or indirectly involved with the Development or Deployment of the 
+StreamRaiders Game, or other services provided by Stream Captain. Furthermore, this project is fan made. Permission 
+was sought but not directly approved. This means at any time the service may be withdrawn, at the request from 
+Stream Captain. All assets used in StreamRaiders Assist are publicly available, or were provided by Stream Captain 
+staff members as a gesture of goodwill.
 ```
 
 
